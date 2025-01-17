@@ -26,3 +26,8 @@ Esta aplicación está diseñada para optimizar la gestión de pacientes y docto
 - **NetBeans**: Versión 12 o superior
 - **Memoria RAM Mínima**: 4 GB
 - **Sistema Operativo**: Windows, macOS o Linux
+
+
+## Documentación Adicional
+
+Para más detalles, consulta el [manual de usuario](docs/Documentation.pdf).
