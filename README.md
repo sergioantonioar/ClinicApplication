@@ -31,3 +31,4 @@ Esta aplicación está diseñada para optimizar la gestión de pacientes y docto
 ## Documentación Adicional
 
 Para más detalles, consulta el [manual de usuario](docs/Documentation.pdf).
+docprueba, [manual prueba](docs2/Rubrica.pdf).
