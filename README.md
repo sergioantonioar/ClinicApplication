@@ -4,7 +4,7 @@
 
 ## Descripción
 
-Esta aplicación está diseñada para optimizar la gestión de pacientes y doctores en una clínica. Facilita la programación de citas, el manejo de historias clínicas, la asignación de doctores a especialidades y la gestión de atenciones médicas, proporcionando una solución integral para el entorno médico.
+Esta aplicación está diseñada para optimizar la gestión de pacientes y doctores en una clínica. Facilita el manejo de historias clínicas, la asignación de doctores a especialidades y la gestión de atenciones médicas, proporcionando una solución integral para el entorno médico.
 
 ## Características Principales
 
